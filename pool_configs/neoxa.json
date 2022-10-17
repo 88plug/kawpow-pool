@@ -19,10 +19,10 @@
         "minConf": 30,
         "coinPrecision": 8,
         "daemon": {
-            "host": DAEMON_HOST,
-            "port": DAEMON_PORT,
-            "user": DAEMON_USER,
-            "password": DAEMON_PASS
+            "host": HOST,
+            "port": PORT,
+            "user": USER,
+            "password": PASS
         }
     },
 
@@ -119,10 +119,10 @@
 
     "daemons": [
         {
-            "host": DAEMON_HOST,
-            "port": DAEMON_PORT,
-            "user": DAEMON_USER,
-            "password": DAEMON_PASS
+            "host": HOST,
+            "port": PORT,
+            "user": USER,
+            "password": PASS
         }
     ],
 
