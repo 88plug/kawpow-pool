@@ -7,7 +7,7 @@
     "donateaddress": WALLET,
 
     "rewardRecipients": {
-	    FEEWALLET:AMOUNT
+	    FEE:AMOUNT
     },
 
     "paymentProcessing": {
