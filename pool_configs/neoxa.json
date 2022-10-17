@@ -119,7 +119,7 @@
 
     "daemons": [
         {
-            "host": "neoxa",
+            "host": "127.0.0.1",
             "port": 9766,
             "user": "user1",
             "password": "pass1"
