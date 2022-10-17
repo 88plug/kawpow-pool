@@ -2,12 +2,12 @@
     "enabled": true,
     "coin": "neoxa.json",
 
-    "address": "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn",
+    "address": WALLET,
     
-    "donateaddress": "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn",
+    "donateaddress": WALLET,
 
     "rewardRecipients": {
-	    "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn":0.5
+	    FEE_WALLET:FEE_AMOUNT
     },
 
     "paymentProcessing": {
@@ -19,10 +19,10 @@
         "minConf": 30,
         "coinPrecision": 8,
         "daemon": {
-            "host": "127.0.0.1",
-            "port": 9766,
-            "user": "user1",
-            "password": "pass1"
+            "host": DAEMON_HOST,
+            "port": DAEMON_PORT,
+            "user": DAEMON_USER,
+            "password": DAEMON_PASS
         }
     },
 
@@ -119,10 +119,10 @@
 
     "daemons": [
         {
-            "host": "127.0.0.1",
-            "port": 9766,
-            "user": "user1",
-            "password": "pass1"
+            "host": DAEMON_HOST,
+            "port": DAEMON_PORT,
+            "user": DAEMON_USER,
+            "password": DAEMON_PASS
         }
     ],
 
