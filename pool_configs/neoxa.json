@@ -2,12 +2,12 @@
     "enabled": true,
     "coin": "neoxa.json",
 
-    "address": "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe",
+    "address": "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn",
     
-    "donateaddress": "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe",
+    "donateaddress": "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn",
 
     "rewardRecipients": {
-	    "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe":0.5
+	    "GRUkMqRbAq1egkEhMjm2wjcfGpyzrafhLn":0.5
     },
 
     "paymentProcessing": {
