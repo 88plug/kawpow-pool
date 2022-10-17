@@ -1,0 +1,10 @@
+
+{
+    "name": "meowcoin",    
+    "symbol": "MEWC",    
+    "algorithm": "kawpow",
+    
+    "blockTime": 60,
+    "blockChange": 1
+    
+}
