@@ -1,12 +1,12 @@
 {
     
-    "poolname": "Neoxa Pool",
+    "poolname": "Akash.Network KawPow Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
     "devmodePayInterval": 120,
     
-    "logips": true,       
+    "logips": false,       
     "anonymizeips": true,
     "ipv4bits": 16,
     "ipv6bits": 16,
@@ -18,8 +18,8 @@
     
     "discordtwitterfacebook": "",
     
-    "pagetitle": "Neoxa Mining Pool powered by Akash",
-    "pageauthor": "Neoxa project",
+    "pagetitle": "KawPow Mining Pools powered by Akash",
+    "pageauthor": "Akash.Network",
     "pagedesc": "A reliable, 0% fee, easy to use mining pool for cryptocurrency! No matter your experience with mining cryptocurrency, we make it easy! Get started mining today!",
     "pagekeywds": "Akash,Akash Network,Akash.Network,GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Bitcoin,Neoxa,Wavi,Wavicoin,Dixicoin,Dixi,QBic,QBicCoin,Easy,Simple,How,To",
 
@@ -41,7 +41,7 @@
     },
 
     "defaultPoolConfigs": {
-        "blockRefreshInterval": 1000,
+        "blockRefreshInterval": 750,
         "jobRebroadcastTimeout": 55,
         "connectionTimeout": 600,
         "emitInvalidBlockHashes": false,
