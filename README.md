@@ -1,3 +1,5 @@
+# Highly modified for the Akash.Network
+
 # NOMP KawPoW Algorithm Pool -Neoxa
 Highly Efficient mining pool for Coins based on KawPoW algo!
 
